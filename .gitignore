@@ -1,0 +1,4 @@
+terraform/env/dev/secrets.auto.tfvars
+terraform/env/dev/.terraform
+terraform/env/dev/terraform.tfstate*
+.DS_Store
